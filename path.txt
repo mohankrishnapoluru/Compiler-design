@@ -1,0 +1,2 @@
+C:\Users\Harshana B\Desktop\GnuWin32\bin
+C:\Users\Harshana B\Desktop\MinGW\bin
